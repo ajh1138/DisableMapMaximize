@@ -8,8 +8,11 @@ This simple addon disables the maximize button on the main map so that you can't
 It was originally a macro that I grabbed from a forum, but I would always forget to run the macro, so -boom- here it is as an addon.
 
 You can activate/de-activate the effects of the addon via slash commands:
+
 /dmm off     (turns the addon off)
+
 /dmm on     (turns it on)
+
 
 The setting is account-wide.
 
