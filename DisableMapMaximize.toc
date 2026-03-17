@@ -1,7 +1,7 @@
-## Interface: 120001
+## Interface: 120001,120005
 ## Title: DisableMapMaximize
 ## Author: ajh1138
-## Version: 12.00.01-01
+## Version: 12.00.05-01
 ## Notes: "Disables the maximize button on the main map."
 ## X-Category: Miscellaneous
 ## X-Website: https://www.curseforge.com/wow/addons/DisableMapMaximize
